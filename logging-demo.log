@@ -1,8 +1,0 @@
-2020-02-24 21:45:06 INFO  ClientInterface:15 - Using Logger
-2020-02-24 21:45:18 INFO  Simple_Compound_Interest:14 - Intialized parameters.
-2020-02-24 21:45:18 INFO  Simple_Compound_Interest:22 - Entered SimpleInterest method.
-2020-02-24 21:45:18 INFO  Simple_Compound_Interest:27 - Entered CompoundInterest method.
-2020-02-24 21:45:24 INFO  Construction_Cost:13 - Intialized parameters.
-2020-02-24 21:45:24 INFO  Construction_Cost:21 - Entered estimate method.
-
-2020-02-24 21:45:24 INFO  ClientInterface:50 - Exiting Program..
